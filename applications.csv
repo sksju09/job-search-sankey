@@ -1,0 +1,127 @@
+﻿application_id,referral_status,furthest_stage,final_outcome,sector
+1,Not referred,Applied,Canceled,Local Education
+2,Not referred,Applied,Rejected,Local Education
+3,Not referred,Applied,Rejected,Local Education
+4,Referred,Interviews,Rejected,Management Consulting
+5,Referred,Applied,Rejected,International Development
+6,Not referred,Applied,Rejected,Management Consulting
+7,Referred,Offer,Part-time,Local Education
+8,Not referred,Applied,Rejected,International Development
+9,Not referred,Applied,Rejected,Education Technology
+10,Not referred,Applied,Rejected,Education Technology
+11,Not referred,Interviews,Rejected,Local Education
+12,Not referred,Applied,Rejected,Education Technology
+13,Not referred,Applied,Rejected,Local Education
+14,Not referred,Applied,Rejected,International Development
+15,Referred,Interviews,Rejected,Management Consulting
+16,Not referred,Applied,Rejected,Local Education
+17,Not referred,Applied,Rejected,Domestic non-profit
+18,Not referred,Applied,Rejected,Domestic non-profit
+19,Not referred,Questionnaire,Rejected,International Development
+20,Not referred,Applied,Rejected,International Development
+21,Not referred,Applied,Rejected,Local Education
+22,Referred,Applied,Rejected,Local Education
+23,Referred,Applied,Rejected,Education Technology
+24,Not referred,Applied,Rejected,Management Consulting
+25,Not referred,Interviews,Rejected,Local Education
+26,Not referred,Applied,Rejected,International Development
+27,Referred,Applied,Rejected,International Development
+28,Not referred,Applied,Rejected,Local Education
+29,Not referred,Offer,Part-time,International Development
+30,Not referred,Applied,Rejected,Education Technology
+31,Not referred,Applied,Rejected,Local Education
+32,Not referred,Applied,Rejected,International Development
+33,Not referred,Applied,Rejected,Education Technology
+34,Referred,Applied,Rejected,Education Technology
+35,Not referred,Offer,Consultancy,International Development
+36,Referred,Applied,Rejected,International Development
+37,Referred,Interviews,Rejected,Higher Education
+38,Not referred,Applied,Rejected,Local Education
+39,Not referred,Applied,Rejected,Education Technology
+40,Not referred,Applied,Rejected,Local Education
+41,Referred,Applied,Rejected,Local Education
+42,Not referred,Applied,Rejected,Local Education
+43,Referred,Applied,Rejected,Management Consulting
+44,Referred,Applied,Rejected,International Development
+45,Not referred,Interviews,Rejected,Management Consulting
+46,Referred,Applied,Rejected,International Development
+47,Not referred,Applied,Rejected,International Development
+48,Not referred,Applied,Rejected,Management Consulting
+49,Referred,Applied,Rejected,Higher Education
+50,Not referred,Interviews,Rejected,Private Sector Analytics
+51,Not referred,Questionnaire,Rejected,International Development
+52,Not referred,Applied,Rejected,Education Technology
+53,Not referred,Applied,Rejected,International Development
+54,Referred,Offer,Proposal,International Development
+55,Not referred,Applied,Rejected,Local Education
+56,Not referred,Applied,Rejected,Education Technology
+57,Not referred,Applied,Rejected,Local Education
+58,Not referred,Applied,Rejected,Management Consulting
+59,Not referred,Applied,Rejected,Local Government
+60,Not referred,Applied,Rejected,Local Education
+61,Not referred,Applied,Rejected,Education Technology
+62,Not referred,Job Task,Rejected,Local Education
+63,Not referred,Applied,Rejected,Education Technology
+64,Not referred,Interviews,Rejected,International Development
+65,Not referred,Applied,Rejected,Private Sector Analytics
+66,Not referred,Interviews,Rejected,Education Technology
+67,Not referred,Applied,Rejected,Private Sector Analytics
+68,Not referred,Applied,Rejected,Private Sector Analytics
+69,Not referred,Applied,Rejected,Local Government
+70,Referred,Applied,Rejected,Private Sector Analytics
+71,Referred,Offer,Consultancy,International Development
+72,Not referred,Offer,Proposal,International Development
+73,Not referred,Job Task,Rejected,International Development
+74,Referred,Applied,Rejected,International Development
+75,Referred,Interviews,Rejected,International Development
+76,Not referred,Applied,Rejected,Education Technology
+77,Not referred,Applied,Rejected,Management Consulting
+78,Not referred,Applied,Rejected,Local Education
+79,Not referred,Interviews,Rejected,International Development
+80,Not referred,Applied,Rejected,Local Education
+81,Not referred,Applied,Rejected,Local Education
+82,Referred,Applied,Rejected,International Development
+83,Not referred,Applied,Rejected,Local Education
+84,Not referred,Applied,Rejected,International Development
+85,Not referred,Applied,Rejected,Management Consulting
+86,Not referred,Interviews,Rejected,Local Education
+87,Referred,Applied,Rejected,International Development
+88,Not referred,Applied,Rejected,International Development
+89,Not referred,Applied,Rejected,International Development
+90,Not referred,Applied,Rejected,International Development
+91,Referred,Offer,Full-time,Management Consulting
+92,Not referred,Applied,Rejected,Management Consulting
+93,Referred,Applied,Rejected,International Development
+94,Not referred,Applied,Rejected,Management Consulting
+95,Not referred,Applied,Rejected,Private Sector Analytics
+96,Referred,Interviews,Rejected,International Development
+97,Not referred,Applied,Rejected,Local Education
+98,Referred,Interviews,Rejected,International Development
+99,Referred,Offer,Proposal,International Development
+100,Referred,Offer,Proposal,Management Consulting
+101,Referred,Applied,Rejected,International Development
+102,Referred,Offer,Proposal,International Development
+103,Referred,Offer,Proposal,International Development
+104,Not referred,Applied,Rejected,International Development
+105,Referred,Offer,Proposal,International Development
+106,Referred,Offer,Proposal,International Development
+107,Referred,Offer,Proposal,Management Consulting
+108,Not referred,Applied,Rejected,Local Education
+109,Not referred,Applied,Rejected,Local Education
+110,Referred,Offer,Proposal,International Development
+111,Not referred,Applied,Rejected,Management Consulting
+112,Not referred,Applied,Rejected,Local Education
+113,Not referred,Applied,Rejected,Education Technology
+114,Not referred,Applied,Rejected,Management Consulting
+115,Not referred,Applied,Rejected,Management Consulting
+116,Not referred,Applied,Rejected,Higher Education
+117,Not referred,Applied,Rejected,Management Consulting
+118,Not referred,Interviews,Rejected,Management Consulting
+119,Not referred,Applied,Rejected,Management Consulting
+120,Not referred,Applied,Rejected,Local Education
+121,Not referred,Interviews,Withdrew,Management Consulting
+122,Referred,Offer,Proposal,International Development
+123,Referred,Offer,Full-time,Management Consulting
+124,Referred,Applied,Withdrew,Higher Education
+125,Referred,Interviews,Rejected,International Development
+126,Not referred,Applied,Rejected,International Development
